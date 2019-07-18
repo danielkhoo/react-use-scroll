@@ -13,8 +13,8 @@
     "Custom Hooks",
     "Scroll"
   ],
-  "deepDependencies": {
-    "react": ">16.8.6"
+  "peerDependencies": {
+    "react": ">16.8.0 < 17"
   },
   "devDependencies": {
     "react": "^16.8.6"
